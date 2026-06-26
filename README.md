@@ -4,13 +4,13 @@ SQL analysis on the Olist Brazilian E-Commerce dataset using PostgreSQL.
 
 ## Analyses
 
-**Cohort & Retention Analysis**
+### Cohort & Retention Analysis
 Grouped customers by their first order month and tracked how many returned in subsequent months.
 
-**Funnel Analysis**
+### Funnel Analysis
 Tracked order status transitions from created to delivered, measuring drop-off and conversion rates at each step.
 
-**RFM Analysis**
+### RFM Analysis
 Segmented customers based on Recency, Frequency, and Monetary value using NTILE scoring.
 
 ## Tools

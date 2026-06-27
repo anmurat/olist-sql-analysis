@@ -16,6 +16,14 @@ Segmented customers based on Recency, Frequency, and Monetary value using NTILE 
 ## Tools
 - PostgreSQL
 - DBeaver
+- Python
+- pandas
+- SQLAlchemy
+- matplotlib
+
+## Files
+- `olist_sql_analysis.sql` — Cohort, Retention, Funnel, and RFM queries
+- `olist_python.ipynb` — RFM analysis and visualization using Python and SQLAlchemy
 
 ## Dataset
 [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
